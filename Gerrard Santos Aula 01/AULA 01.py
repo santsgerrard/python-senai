@@ -1,0 +1,5 @@
+print('olá, mundo')
+print('hoje teremos novas versões disponiveis')
+print('atualizem as bios do sistema')
+print('ipconfig/all')
+print('wmic bios get serialnumber')
